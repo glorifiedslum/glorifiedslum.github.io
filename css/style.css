@@ -1,3 +1,7 @@
 * {
-  font-family: "Gill Sans"
+  font-family: "Gill Sans";
+}
+
+h1 {
+  font-weight: light;
 }
